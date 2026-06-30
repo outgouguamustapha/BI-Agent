@@ -1,7 +1,7 @@
 # Executive BI Briefing - DIG Framework Analysis
 
 ## Executive Summary
-This report analyzes monthly enterprise health metrics including Monthly Recurring Revenue (MRR), active users, and API calls from Jan 2026 to May 2026. 
+This report analyzes monthly enterprise health metrics including Monthly Recurring Revenue (MRR), active users, and API calls from 2025-11 to 2026-05. 
 
 ### Monthly Performance Aggregations
 | Log Month | Total MRR ($) | MRR Growth (%) | Active Users | User Growth (%) | Total API Calls |
@@ -16,7 +16,10 @@ This report analyzes monthly enterprise health metrics including Monthly Recurri
 
 
 ## Key Health Insights
-1. **Strong Revenue Expansion**: Total MRR grew from **$14,400.00** in January to **$16,400.00** in May 2026 (a **13.89%** growth). Growth was primarily driven by Globex Corporation upgrading their plan in March.
-2. **Stable Active User Base**: Active users steadily increased, reaching **1,976** in May.
-3. **API Usage Optimization**: Total API calls increased from **94,900** in January to **118,750** in May.
-4. **Churn Warning**: Soylent Corp churned in late 2025 and has no metrics for 2026. All 5 active accounts have remained active.
+1. **Strong Revenue Expansion**: Total MRR grew from **$150.00** in 2025-11 to **$16,400.00** in 2026-05 (an overall growth of **10833.33%**). Growth was peak in 2026-01 at 9500.00%.
+2. **Stable Active User Base**: Active users steadily increased, reaching **1,976** in the final reporting month.
+3. **API Usage Optimization**: Total API calls increased from **150** to **117,650**.
+4. **Churn Warning**: Churned accounts identified: **Soylent Corp**. All other active accounts remain healthy.
+
+## OPERATIONAL ANOMALY ALERTS
+- **2026-01**: Velocity spike of **112275.00%** MoM in API volume.
